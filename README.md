@@ -10,4 +10,4 @@
 
 Apparently ModernBlo's creator ripped out all of the functionality of Jekyll. To sum it up, all posts and content will need to be manually built -  not command-friendy due to missing a ton of the generative conventions afforded by Ruby that make Jekyll what it is.
 
-Unlike other themed builds, this is merely a basic site attempt with fancy javascript animations. I'm sure this could be modified, but not without nearly re-inventing the wheel. It only mimics a small part of Jekyll's directory structure. I don't know how this made it onto the Jekyll theme site other than by a complete lack of oversight and responsibility by Jekyll contributors because **this is obviously not Jekyll**.
+Unlike other themed builds, this is merely a basic site attempt with fancy javascript animations. I'm sure this could be modified, but not without nearly re-inventing the wheel. It only mimics a small part of Jekyll's directory structure. I don't know how this made it onto the Jekyll theme site other than by a complete lack of oversight and responsibility by the Jekyll community because **this is obviously not Jekyll**.
