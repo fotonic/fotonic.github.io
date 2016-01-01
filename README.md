@@ -15,5 +15,5 @@
 ### Other notes:
 
 1. Everything with Jekyll is customizable.
-2. The current project utilizes HTML, SASS/SCSS, Ruby, JS/jQuery, Markdown, and [Liguid](https://github.com/Shopify/liquid/wiki).
+2. The current project utilizes HTML, SASS/SCSS, Ruby, JS/jQuery, Markdown, and [Liquid](https://github.com/Shopify/liquid/wiki).
 2. For more info on Jekyll and its conventions, [this documentation](https://jekyllrb.com/docs/home/) will help you understand how it all works.
