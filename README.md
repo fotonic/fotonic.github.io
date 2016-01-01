@@ -1,4 +1,4 @@
-## Fotonic blog
+# Fotonic blog
 
 ### Running locally:
 
