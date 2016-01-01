@@ -17,4 +17,4 @@
 2. New posts can be found in the ```_posts``` directory
 
 
-For more info on working with Jekyll, refer to [this documentation](https://jekyllrb.com/docs/home/)
+For more info on working with Jekyll, [this documentation](https://jekyllrb.com/docs/home/) is super helpful!!!
