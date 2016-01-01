@@ -1,7 +1,32 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Fotonic
+email: example@example.com
+description: A Material Design inspired Jekyll theme
+footer_text: 'Made with <span class="icon-favorite pulse"></span> by people.'
+baseurl:
+
+# Social usernames
+twitter_username: fotonic
+github_username:  fotonic
+dribbble_username:
+instagram_username:
+email: example@example.com
+
+# Build settings
+markdown: kramdown
+include: ['_pages', '_assets']
+exculde: ['.sass_cache', 'README.md']
+sass:
+  sass_dir: '_assets/_sass'
+permalink: "/:title/"
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: "_pages"
+    values:
+      is_in_nav: true
+
+gems:
+  - jekyll-gist
