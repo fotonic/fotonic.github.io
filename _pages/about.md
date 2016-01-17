@@ -10,7 +10,7 @@ Describing who we truly are doesn't exactly fit a conventional category, but as 
 
 ### Purpose
 
-Our goal is simply to share what we learn and enjoy with a main emphasis on things pertaining to web design and development. Occasionally we share other stuff too.
+Our goal is simply to share what we learn and enjoy with a main emphasis on web design and development. Occasionally we share other stuff too.
 
 ### Find us online
 
