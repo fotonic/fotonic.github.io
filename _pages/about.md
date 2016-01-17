@@ -14,7 +14,7 @@ Our goal is simply to share what we learn and enjoy with a main emphasis on web 
 
 ### Find us online
 
-Find us on [Github](http://github.com/fotonic) to see what we're up to. (_Twitter is coming soon._)
+Check out [Github](http://github.com/fotonic) to see what we're up to. (_Twitter is coming soon._)
 
 <!-- ### Contact
 
