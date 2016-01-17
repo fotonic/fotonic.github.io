@@ -10,7 +10,7 @@ We're friends, artists, designers, developers and makers. Curious creativity and
 
 ### Purpose
 
-Our goal is simply to share what we learn and enjoy with a main emphasis on web design and development. Occasionally we share other stuff too.
+Our blog exists simply to share what we learn and enjoy with a main emphasis on web design and development. Occasionally we share other stuff too.
 
 ### Find us online
 
