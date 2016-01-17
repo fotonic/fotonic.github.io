@@ -1,12 +1,12 @@
 # Site settings
 title: Fotonic
 email: example@example.com
-description: A Material Design inspired Jekyll theme
+description: 
 footer_text: 'Made with <span class="icon-favorite pulse"></span> by people.'
 baseurl:
 
 # Social usernames
-twitter_username: 
+twitter_username:
 github_username:  fotonic
 dribbble_username:
 instagram_username:
