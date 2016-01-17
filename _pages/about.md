@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### Who are we?
+### Who
 
-Describing who we truly are doesn't exactly fit a conventional category, but as friends, artists, designers, developers and makers, curious creativity empowers life and our profession.
+We're friends, artists, designers, developers and makers. Curious creativity empowers life and our profession.
 
 ### Purpose
 
