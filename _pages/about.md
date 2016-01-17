@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Who
 
-We're friends, artists, designers, developers and makers. Curious creativity empowers life and our profession.
+We're friends, artists, designers, developers and makers. Curious creativity empowers our lives and professions.
 
 ### Purpose
 
