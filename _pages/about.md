@@ -4,11 +4,27 @@ title: About
 permalink: /about/
 ---
 
-A simple Jekyll theme inspired by Google's new visual language, Material Design.
+### Who are we?
+
+Describing who we truly are doesn't exactly fit a conventional category, but as friends, artists, designers, developers and makers, curious creativity empowers life and our profession.
+
+### Purpose
+
+Our goal simply to share what we learn and enjoy with a main emphasis on things pertaining to web design and development. Occasionally we share other stuff too.
+
+### Find us online
+
+Find us on [Github](http://github.com/fotonic) to see what we're up to. (_Twitter is coming soon._)
+
+<!-- ### Contact
+
+If you have a web project you'd like discuss with us, [get in touch](http//) -->
+
+<!-- A simple Jekyll theme inspired by Google's new visual language, Material Design.
 
 Here is some dummy text to be replaced with some non-dummy text later:
 
-# Sola pensandum illos comitum estque fato petit
+
 
 ## Deforme sperata ita quae pennaeque sumat retinebat
 
@@ -20,12 +36,7 @@ fuerat tepidique. Nomina inferias; per Philemon prius vanos faciam tincta
 frustra. Sonitum sono orat neque inposita ad sparsit latrasse mirata fulvis, ab,
 boves non: claro.
 
-> Videt pronus *et factaque* Lycus deum est [omnibus medium
-> hanc](http://www.wtfpl.net/) vincula effugies. Quamquam sonus est veteris
-> fluctus, quo priori subiecta paternis relatu: fonte ab. Ut quaeritur corpore!
-> Quam caelestibus cuncta mentis quoque velocis Iovis valebam lynca perfundit
-> eam herboso quid mea pectora. Simul [illa est](http://www.uselessaccount.com/)
-> actutum atque qui.
+> Photonics is the science and technology of generating, controlling, and detecting photons, which are particles of light. Photonics underpins technologies of daily life from smartphones to laptops to the Internet to medical instruments to lighting technology.
 
 Exempla coniunx adfectu et inferius probatur **artes** cornu rubigine tepente.
 Nigri chlamydem ficta ulla sed Neptunus facti; [retenta
@@ -96,4 +107,4 @@ ingenium animoque *debere verborum* ensis corpora forma nominat haberet.
   end
   end
   end
-{% endhighlight %}
+{% endhighlight %} -->
