@@ -6,11 +6,11 @@ permalink: /about/
 
 ### Who we are
 
-We're friends, artists, designers, developers and makers. Curious creativity & wild ideas of robust and scalable engineering empower us.
+We're friends, artists, designers, developers and makers. Curious creativity & wild ideas of robust UX and scalable engineering empower us.
 
 ### Purpose
 
-Our goal is to share the insights we gain as we collaborate and build things for the web. Occasionally we'll post other stuff too.
+Our goal is to share the insights we gain as we collaborate and build things for the web. Occasionally we'll talk about random topics too.
 
 ### Find us online
 
