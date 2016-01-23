@@ -10,7 +10,7 @@ We're friends, artists, designers, developers and makers. Curious creativity, wi
 
 ### Purpose
 
-Our goal is to help build others by sharing our insights as we navigate the ever-changing realm of developing things for life and for the web. Occasionally we'll post other stuff too.
+Our goal is to help develop others by sharing our insights as we navigate the ever-changing realm of building things for people and businesses who traverse web. Occasionally we'll post other stuff too.
 
 ### Find us online
 
