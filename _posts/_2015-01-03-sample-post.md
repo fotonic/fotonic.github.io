@@ -88,6 +88,9 @@ Non Pygments code example
 
 ## Buttons
 
+This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+
+
 Make any link standout more when applying the `.btn` class.
 
 {% highlight html %}
