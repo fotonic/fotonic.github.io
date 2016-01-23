@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Who we are
 
-We're friends, artists, designers, developers and makers. Curious creativity & wild ideas of robust UX and scalable engineering empower us.
+We're friends, artists, designers, developers and makers. Curious creativity & innovative engineering empower us.
 
 ### Purpose
 
