@@ -6,11 +6,11 @@ permalink: /about/
 
 ### Who we are
 
-We're friends, artists, designers, developers and makers. Curious creativity and engineering empower our lives and professions.
+We're friends, artists, designers, developers and makers. Curious creativity and engineering empower us.
 
 ### Purpose
 
-Our blog exists simply to share what we learn and enjoy with a main emphasis on web design and development. Occasionally we'll post other stuff too.
+Our goal is to help build others by sharing our insights as we navigate the ever-changing realm of developing things for life and for the web. Occasionally we'll post other stuff too.
 
 ### Find us online
 
