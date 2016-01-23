@@ -8,12 +8,12 @@ home: true
       {% for post in site.posts %}
       {% assign words = post.content | number_of_words %}
       {% if words <= 90 %}
-      {% assign reading-time = "1m" %}
+      {% assign reading-time = "1 minute" %}
       {% else %}
-      {% assign reading-time = words | divided_by:180 | append:"m" %}
+      {% assign reading-time = words | divided_by:180 | append:" minute" %}
       {% endif %}
       <li class="list-item">
-        <span class="post-meta">{{ reading-time }} read ● {{ post.date | date: '%-d %B %Y' }}</span>
+        <span class="post-meta">{{ post.date | date: '%-d %B %Y' }} ● {{ reading-time }} read </span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% if post.link %}<span class="icon-call-made"></span>{% endif %}{{ post.title }}</a>
         </h2>
