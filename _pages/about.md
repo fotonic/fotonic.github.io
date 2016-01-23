@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Who
+### Who we are
 
 We're friends, artists, designers, developers and makers. Curious creativity and engineering empower our lives and professions.
 
