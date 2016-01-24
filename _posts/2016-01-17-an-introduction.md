@@ -2,6 +2,8 @@
 layout: post
 title: "Agency Fight Night"
 tags: [ Design, Cincinnati, Possible, Rockfish, Barefoot]
+image:
+  feature:fightnight.jpg
 ---
 
 ### Agency Fight Night
@@ -13,3 +15,6 @@ Agency Fight Night is an event where the three top agencies in Cincinnati battle
 The challenges ranged from creating a facebook post to a poster for a bar.  Each team had a few minutes to come up with an idea and present a finish product for the audience and judges.  Overall I believe each agency had great ideas but Possible brought home the gold.
 
 If you would like more informaiton follow Agency Fight Night on Twitter and keep a lookout for the next one.  https://twitter.com/agncyfightnight
+
+
+fightnight1.jpg
