@@ -12,4 +12,4 @@ Agency Fight Night is an event where the three top agencies in Cincinnati battle
 
 The challenges ranged from creating a facebook post to a poster for a bar.  Each team had a few minutes to come up with an idea and present a finish product for the audience and judges.  Overall I believe each agency had great ideas but Possible brought home the gold.
 
-If you would like more informaton follow Agency Fight Night on Twitter and keep a lookout for the next one.  https://twitter.com/agncyfightnight
+If you would like more informaton follow [Agency Fight Night on Twitter](https://twitter.com/agncyfightnight) and keep a lookout for the next one.
