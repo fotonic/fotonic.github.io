@@ -5,6 +5,7 @@ tags: [ Design, Cincinnati, Possible, Rockfish, Barefoot]
 ---
 
 ### Agency Fight Night
+<h6 id="author">By <a href="https://twitter.com/Andreambaker8">Andrea Baker</a></h6>
 
 As a designer Cincinnati is a great place to be.  There's tons of meet ups to go to and tons of design agencies you can join.  This Thursday I went to the first Agency Fight Night.  
 
