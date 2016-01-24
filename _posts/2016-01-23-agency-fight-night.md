@@ -4,7 +4,7 @@ title: "Agency Fight Night"
 author: andrea
 tags: [ Design, Cincinnati, Possible, Rockfish, Barefoot]
 ---
-![my photo]({{ site.url}}/_assets/images/fightnight.jpg)
+![my photo]({{ site.url}}/_assets/images/fightnight_sm.jpg)
 
 
 ### Agency Fight Night
