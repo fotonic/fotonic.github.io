@@ -19,3 +19,5 @@ The challenges ranged from creating a facebook post to a poster for a bar.  Each
 
 If you would like more information, follow [Agency Fight Night on Twitter](https://twitter.com/agncyfightnight) and keep a lookout for the next one.
 <br>
+
+![my photo]({{ site.url}}/_assets/images/fightnight1.jpg)
