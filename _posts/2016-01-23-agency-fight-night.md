@@ -6,6 +6,7 @@ tags: [ Design, Cincinnati, Possible, Rockfish, Barefoot]
 ---
 ![my photo]({{ site.url}}/_assets/images/fightnight.jpg)
 
+
 ### Agency Fight Night
 
 <span class="author">By <a href="https://twitter.com/Andreambaker8">Andrea Baker</a></span>
