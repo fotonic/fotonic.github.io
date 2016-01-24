@@ -1,7 +1,7 @@
 # Site settings
 title: Fotonic
 email: example@example.com
-description: 
+description:
 footer_text: 'Made with <span class="icon-favorite pulse"></span> by people.'
 baseurl:
 
@@ -11,6 +11,23 @@ github_username:  fotonic
 dribbble_username:
 instagram_username:
 email: example@example.com
+
+# data
+authors:
+  andrea:
+    display_name: Andrea Baker
+    avatar: https://avatars2.githubusercontent.com/u/9620147?v=3&s=400
+    email:
+    web:
+    twitter: Andreambaker8
+    github: ambaker888
+  chip:
+    display_name: Chip Eyler
+    avatar: https://avatars2.githubusercontent.com/u/9620147?v=3&s=400
+    email:
+    web:
+    twitter: freqn
+    github: freqn
 
 # Build settings
 markdown: kramdown
