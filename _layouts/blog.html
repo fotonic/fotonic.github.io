@@ -13,7 +13,8 @@ home: true
       {% assign reading-time = words | divided_by:180 | append:" minute" %}
       {% endif %}
       <li class="list-item">
-        <span class="post-meta">{{ post.date | date: '%-d %B %Y' }} ● {{ reading-time }} read </span>
+        <span class="post-meta">{{ post.date | date: ' %B %-d, %Y' }} </span>
+        <!-- <span class="post-meta">{{ post.date | date: '%-d %B %Y' }} ● {{ reading-time }} read </span> -->
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% if post.link %}<span class="icon-call-made"></span>{% endif %}{{ post.title }}</a>
         </h2>
