@@ -6,7 +6,7 @@ footer_text: 'Made with <span class="icon-favorite pulse"></span> by people.'
 baseurl:
 
 # Social usernames
-twitter_username:
+twitter_username: testaccount
 github_username:  fotonic
 dribbble_username:
 instagram_username:
@@ -17,13 +17,15 @@ authors:
   andrea:
     display_name: Andrea Baker
     avatar: https://avatars2.githubusercontent.com/u/9620147?v=3&s=400
+    bio: Front-end designer, artist, cat lover & wine enthusiast
     email:
     web:
     twitter: Andreambaker8
     github: ambaker888
   chip:
     display_name: Chip Eyler
-    avatar: https://avatars2.githubusercontent.com/u/9620147?v=3&s=400
+    avatar: https://avatars2.githubusercontent.com/u/3611075?v=3&s=460
+    bio: Ruby on Rails developer, maker, musician & bearded
     email:
     web:
     twitter: freqn
