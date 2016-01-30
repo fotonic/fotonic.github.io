@@ -1,8 +1,9 @@
 require "stringex"
 class Jekyll < Thor
   desc "new", "create a new post"
-  def new(*title)
+  def new(*title, author)
     title = title.join(" ")
+    author = author
     date = Time.now.strftime('%Y-%m-%d')
     filename = "_posts/#{date}-#{title.to_url}.md"
 
@@ -15,12 +16,13 @@ class Jekyll < Thor
       post.puts "---"
       post.puts "layout: post"
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+      post.puts "author: #{author.downcase}"
       post.puts "tags:"
       post.puts " -"
       post.puts "---"
+      post.puts "\n"
+      post.puts "### #{title}"
     end
-
-    # system(options[:editor], filename)
   end
 end
 
