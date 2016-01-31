@@ -34,6 +34,14 @@ authors:
     twitter: freqn
     twitter_url: http://twitter.com/freqn
     github: freqn
+  anthony:
+    display_name: Anthony Isaacs
+    avatar: https://avatars2.githubusercontent.com/u/10109984
+    bio: Angular/Rails developer with interests in data vis, functional programming, & escapist fiction
+    email:
+    web:
+    twitter: nthony_i
+    github: AnthonyIsaacs
 
 # Build settings
 markdown: kramdown
