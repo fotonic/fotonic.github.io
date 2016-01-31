@@ -1,9 +1,16 @@
 ---
 layout: page
 title: About
-  We're friends, coffee drinkers, designers, developers and makers. Curious creativity & innovative ideas empower us.
 permalink: /about/
 ---
+
+### Who we are
+
+We're friends, artists, designers, developers and makers. Curious creativity & innovative ideas empower us.
+
+### Purpose
+
+Our goal is to share the insights we gain as we collaborate and build things for the web and engage the local community. Occasionally we'll talk about random stuff too.
 
 ### Find us online
 
@@ -15,17 +22,50 @@ If you have a web project you'd like discuss with us, [get in touch](http//) -->
 
 <!-- A simple Jekyll theme inspired by Google's new visual language, Material Design.
 
-Andrea
-Web designer and food lover. 
-
-Anthony
-
-
-Chip
+Here is some dummy text to be replaced with some non-dummy text later:
 
 
 
+## Deforme sperata ita quae pennaeque sumat retinebat
 
+Lorem markdownum cognoscit tacitaque supremis, grates auxilium purpura, vocalia
+meae coniciunt remissos. Ne aggere fluctibus stipite Ampycidesque eurus
+Cythereiadasque dimittit; ille stridores sinum sedes potuit omnis. Dextra nefas:
+latet [cum](http://twitter.com/search?q=haskell) illa quoque est ponto usus
+fuerat tepidique. Nomina inferias; per Philemon prius vanos faciam tincta
+frustra. Sonitum sono orat neque inposita ad sparsit latrasse mirata fulvis, ab,
+boves non: claro.
+
+> Photonics is the science and technology of generating, controlling, and detecting photons, which are particles of light. Photonics underpins technologies of daily life from smartphones to laptops to the Internet to medical instruments to lighting technology.
+
+Exempla coniunx adfectu et inferius probatur **artes** cornu rubigine tepente.
+Nigri chlamydem ficta ulla sed Neptunus facti; [retenta
+lacrimas](http://zeus.ugent.be/) pontum pulvere forte! Et prioribus, montis:
+gaudete herbas perdideris passa, breve sua lux. Est ave quantam iussus **vitam**
+iacentes esse furit piceis, *medium*, quod.
+
+
+## Ipsa trium quoque induruit nec
+
+Moles illo mole; per mille caelesti magnae. Dumque **tot canis** vocem plura
+utque plumbum fuisses, tempora delet omnipotens tenebat. Saepius tota.
+
+1. Non Aeolidis oracla
+2. Fore videam habet armandique Achille virtus
+3. Vultus minuunt potuisse inquit
+4. Generum haud
+5. Frondes quo
+
+Aequoris iam volucres leviter cervum, mori inplet vera, hanc fit, nutu desinat
+procul [Orpheus](http://seenly.com/), lumina est. Retro corpus pertulerint
+medio, **dant** notum *traxit* Athenae veras. Haec remittas, coniunx? Eris nervi
+saucius bene dabant nominibus in sive, non mortalis, et. Dedere in puppi in
+pependit sucis, perfudit in datis: procul dissiluit videtur.
+
+Et modum accepti, longoque sibi iussere. Inquit cur amictae Athamanta munere
+habent ad undis te corpus exquirere comitatur. Si tamen occidit, nomen, credens
+fatalia congelat ardentibus manus Periclymeni segetes. Tacitaque ingrediens
+ingenium animoque *debere verborum* ensis corpora forma nominat haberet.
 
 
 {% highlight css %}
