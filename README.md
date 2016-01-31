@@ -10,7 +10,7 @@
 
 ### Create a new blog post
 
-1. ```gem install thor```
+1. If you don't have thor, run ```gem install thor```
 2. Use this command: ```thor jekyll:new```
 3. New posts can be found in the ```_posts``` directory
 
