@@ -3,6 +3,8 @@ layout: default
 ---
 <!-- PLEASE READ - Update all member info in _data/member.yml to render a card view  -->
 
+<h2>Meet the Team</h2>
+
 {% for member in site.data.members %}
 
 	<div class="member_card">
@@ -10,10 +12,10 @@ layout: default
 		<h3>{{ member.display_name }}</h3>
 		<p>{{ member.about_text }}</p>
 		<ul class="social_icons">
-		  {% if member.twitter %}<li><a target="_blank" href="http://twitter.com/{{ member.twitter }}"><span class="icon-twitter"></span></a></li>{% endif %}
-		  {% if member.github %}<li><a target="_blank" href="http://github.com/{{ site.github_username }}"><span class="icon-github"></span></a></li>{% endif %}
-		  {% if member.dribbble_username %}<li><a target="_blank" href="http://dribbble.com/{{ site.dribbble_username }}"><span class="icon-dribbble"></span></a></li>{% endif %}
-		  {% if member.instagram_username %}<li><a target="_blank" href="http://instagram.com/{{ site.instagram_username }}"><span class="icon-instagram"></span></a></li>{% endif %}
+		  {% if member.twitter %}<li><a target="_blank" href="{{ member.twitter_url }}"><span class="icon-twitter"></span></a></li>{% endif %}
+		  {% if member.github %}<li><a target="_blank" href="{{ member.github }}"><span class="icon-github"></span></a></li>{% endif %}
+		  {% if member.dribbble_username %}<li><a target="_blank" href="http://dribbble.com/{{ member.dribbble_username }}"><span class="icon-dribbble"></span></a></li>{% endif %}
+		  {% if member.instagram_username %}<li><a target="_blank" href="http://instagram.com/{{ member.instagram_username }}"><span class="icon-instagram"></span></a></li>{% endif %}
 		  {% if member.email %}<li><a href="mailto:{{ site.email }}"><span class="icon-drafts"></span></a></li>{% endif %}
 	  </ul>
 	</div>

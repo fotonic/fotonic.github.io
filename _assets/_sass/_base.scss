@@ -200,7 +200,18 @@ pre {
   font-style: italic;
   font-size: 1rem;
 }
+.member_card {
+  margin: 20px, 0;
+}
+
 
 .social_icons {
   list-style-type: none;
+}
+
+.about_pic {
+  height: 200px;
+  width: 200px;
+  border-radius: 3px;
+  margin-bottom: 20px;
 }

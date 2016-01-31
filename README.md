@@ -4,13 +4,15 @@
 
 1. Clone the repo
 2. ```bundle install```
-3. Run the server locally: ```jekyll serve --watch```
-4. Go to [localhost:4000](http://localhost:4000/) in your browser
+3. ```gem install jekyll```
+4. Run the server locally: ```jekyll serve --watch```
+5. Go to [localhost:4000](http://localhost:4000/) in your browser
 
 ### Create a new blog post
 
-1. Use this command: ```thor jekyll:new your post title```
-2. New posts can be found in the ```_posts``` directory
+1. ```gem install thor```
+2. Use this command: ```thor jekyll:new```
+3. New posts can be found in the ```_posts``` directory
 
 ### Other notes:
 
