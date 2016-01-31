@@ -18,17 +18,21 @@ authors:
     display_name: Andrea Baker
     avatar: https://avatars2.githubusercontent.com/u/9620147?v=3&s=400
     bio: Front-end designer, artist, cat lover & wine enthusiast
+    about_text:
     email:
     web:
     twitter: Andreambaker8
+    twitter_url: http://twitter.com/Andreambaker8
     github: ambaker888
   chip:
     display_name: Chip Eyler
     avatar: https://avatars2.githubusercontent.com/u/3611075?v=3&s=460
     bio: Ruby on Rails developer, maker, musician & bearded
+    about_text: Chip is a full-stack Ruby developer, musician & maker with a passion for building things. He's also never done Karaoke.
     email:
     web:
     twitter: freqn
+    twitter_url: http://twitter.com/freqn
     github: freqn
 
 # Build settings
