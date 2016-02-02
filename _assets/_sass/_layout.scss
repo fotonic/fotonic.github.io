@@ -12,6 +12,7 @@ body {
   position: relative;
   padding: 0;
   margin: 0;
+  height: 100%;
 }
 #bg-blur {
   background: rgba(0,0,0,.6);
@@ -392,6 +393,9 @@ footer {
   color: $dividerColor;
   padding-top: 30px;
   padding-bottom: 20px;
+  // position: fixed;
+  bottom: 0;
+  width: 100%;
   a {
     transition: .2s all ease;
       color: $textPrimaryColor !important;
