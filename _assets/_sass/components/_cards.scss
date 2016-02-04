@@ -78,10 +78,12 @@
 
     .card-title {
       color: $card-bg-color;
-      position: absolute;
-      bottom: 0;
-      left: 0;
+      color: #212121;
+      // position: absolute;
+      // bottom: 0;
+      // left: 0;
       padding: $card-padding;
+      padding-right: 10px;
     }
 
   }
@@ -101,16 +103,18 @@
   }
 
   .card-action {
-    border-top: 1px solid rgba(160,160,160,.2);
+    border-bottom: 1px solid rgba(160,160,160,.2);
     padding: $card-padding;
 
     a:not(.btn):not(.btn-large):not(.btn-floating) {
-      color: $card-link-color;
-      margin-right: $card-padding;
+      color: #9F9D9D;
+      // color: $card-link-color;
+      // margin-right: $card-padding;
       transition: color .3s ease;
       text-transform: uppercase;
 
-      &:hover { color: $card-link-color-light; }
+      // &:hover { color: $card-link-color-light; }
+      &:hover { color: #ff5252; }
     }
   }
 
