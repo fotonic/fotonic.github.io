@@ -28,6 +28,11 @@ layout: default
 	        </div>
 	        <div class="card-action">
 						<span class="card-title">{{ member.display_name }}</span>
+	        </div>
+					<div class="card-content">
+						<p>{{ member.about_text }}</p>
+					</div>
+					<div class="card-action">
 						{% if member.twitter %}
 	          	<a target="_blank" href="{{ member.twitter_url }}"><span class="icon-twitter"></span></a>
 						{% endif %}
@@ -35,9 +40,6 @@ layout: default
 	          	<a target="_blank" href="{{ member.github }}"><span class="icon-github"></span></a>
 						{% endif %}
 	        </div>
-					<div class="card-content">
-						<p>{{ member.about_text }}</p>
-					</div>
 	      </div>
 	    </div>
 		{% endfor %}
