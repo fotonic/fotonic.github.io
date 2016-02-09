@@ -595,7 +595,6 @@ footer {
   }
   header h1 {
     line-height: 2.6rem;
-    font-size: 2.2rem;
   }
   header p {
     margin-top: 5px;
@@ -615,11 +614,13 @@ footer {
     padding-bottom: 50%;
   }
 }
+//temporary home for quick styling
 .home-back{
-  background-image:url('fontbackground.jpg')no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-image:url('/_assets/images/fontbackground.jpg');
   background-size: cover;
   text-align: center;
+  h1{
+    color:#146480;
+    font-size: 2rem;
+  }
 }
