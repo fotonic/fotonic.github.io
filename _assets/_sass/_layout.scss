@@ -54,10 +54,10 @@ section {
 * Site header
 */
 header {
-  background: $primaryColor;
   color: $textPrimaryColor;
   position: relative;
   padding-top: 13%;
+  text-align: center;
   padding-bottom: 18%;
   a {
     font-size: 26px;
@@ -272,7 +272,8 @@ nav{
   z-index: 7;
   width: 100%;
   max-height: 60px;
-  background-color: $primaryColor;
+  // background-color: $primaryColor;
+  background-color: #34A5DD;
   top: 0;
   transition-duration: 0.3s;
   transition-timing-function: swing;
@@ -595,7 +596,6 @@ footer {
   }
   header h1 {
     line-height: 2.6rem;
-    font-size: 2.2rem;
   }
   header p {
     margin-top: 5px;
@@ -613,5 +613,15 @@ footer {
   header {
     padding-top: 25%;
     padding-bottom: 50%;
+  }
+}
+//temporary home for quick styling
+.home-back{
+  background-image:url('/_assets/images/fontbackground.jpg');
+  background-size: cover;
+  text-align: center;
+  h1{
+    color:#146480;
+    font-size: 2rem;
   }
 }

@@ -1,10 +1,9 @@
 <div id="bg-blur"></div>
 <div class="content-wrap">
-<header>
+<header class="home-back">
   <div class="wrapper">
-    {% if page.path contains '_posts' %}<p class="post-meta">{{ page.date | date: '%B %-d, %Y' }}</p>{% else if page.sub %}<p>{{ site.sub }}</p>{% else %}<p>{{ site.description }}</p>{% endif %}
-    <!-- {% if page.path contains '_posts' %}<p class="post-meta">{{ page.date | date: '%-d %B %Y' }} ● {{ reading-time }} read</p>{% else if page.sub %}<p>{{ site.sub }}</p>{% else %}<p>{{ site.description }}</p>{% endif %} -->
-    {% if page.title %}{% if page.link %}<a class="linked-post" href="{{ page.link }}">{% endif %}<h1>{% if page.link %}<span class="icon-call-made"></span>{% endif %}{{ page.title }}</h1>{% if page.link %}</a>{% endif %}{% else %}<h1>{{ site.title }}</h1>{% endif %}
+    <h1>FOTONIC</h1>
+    <p>creating digital experiences and building others</p>
   </div>
 </header>
 
