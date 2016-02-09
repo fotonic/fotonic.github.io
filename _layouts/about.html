@@ -3,46 +3,62 @@ layout: default
 ---
 <!-- PLEASE READ - Update all member info in _data/member.yml to render a card view  -->
 
-<h2>Meet the Team</h2>
 
+  <!-- <div class="member_card">
+    <img class="about_pic" src="{{ member.picture }}"/>
+    <h3>{{ member.display_name }}</h3>
+    <p>{{ member.about_text }}</p>
+    <ul class="social_icons">
+      {% if member.twitter %}<li><a target="_blank" href="{{ member.twitter_url }}"><span class="icon-twitter"></span></a></li>{% endif %}
+      {% if member.github %}<li><a target="_blank" href="{{ member.github }}"><span class="icon-github"></span></a></li>{% endif %}
+      {% if member.dribbble_username %}<li><a target="_blank" href="http://dribbble.com/{{ member.dribbble_username }}"><span class="icon-dribbble"></span></a></li>{% endif %}
+      {% if member.instagram_username %}<li><a target="_blank" href="http://instagram.com/{{ member.instagram_username }}"><span class="icon-instagram"></span></a></li>{% endif %}
+      {% if member.email %}<li><a href="mailto:{{ site.email }}"><span class="icon-drafts"></span></a></li>{% endif %}
+    </ul>
+  </div> -->
 
-	<!-- <div class="member_card">
-		<img class="about_pic" src="{{ member.picture }}"/>
-		<h3>{{ member.display_name }}</h3>
-		<p>{{ member.about_text }}</p>
-		<ul class="social_icons">
-		  {% if member.twitter %}<li><a target="_blank" href="{{ member.twitter_url }}"><span class="icon-twitter"></span></a></li>{% endif %}
-		  {% if member.github %}<li><a target="_blank" href="{{ member.github }}"><span class="icon-github"></span></a></li>{% endif %}
-		  {% if member.dribbble_username %}<li><a target="_blank" href="http://dribbble.com/{{ member.dribbble_username }}"><span class="icon-dribbble"></span></a></li>{% endif %}
-		  {% if member.instagram_username %}<li><a target="_blank" href="http://instagram.com/{{ member.instagram_username }}"><span class="icon-instagram"></span></a></li>{% endif %}
-		  {% if member.email %}<li><a href="mailto:{{ site.email }}"><span class="icon-drafts"></span></a></li>{% endif %}
-	  </ul>
-	</div> -->
-
-	<div class="row">
-		{% for member in site.data.members %}
-	    <div class="col s12 m4">
-	      <div class="card">
-	        <div class="card-image">
-	          <img src="{{ member.picture }}">
-	        </div>
-	        <div class="card-action">
-						<span class="card-title">{{ member.display_name }}</span>
-	        </div>
-					<div class="card-content">
-						<p>{{ member.about_text }}</p>
-					</div>
-					<div class="card-action">
-						{% if member.twitter %}
-	          	<a target="_blank" href="{{ member.twitter_url }}"><span class="icon-twitter"></span></a>
-						{% endif %}
-						{% if member.github %}
-	          	<a target="_blank" href="{{ member.github }}"><span class="icon-github"></span></a>
-						{% endif %}
-	        </div>
-	      </div>
-	    </div>
-		{% endfor %}
+  <div class="row">
+    {% for member in site.data.members %}
+      <div class="col s12 m4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="{{ member.picture }}">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">{{ member.display_name }}<i class="fa fa-ellipsis-v right"></i></span>
+            <p>{% if member.twitter %}
+              <a target="_blank" href="{{ member.twitter_url }}"><span class="icon-twitter"></span></a>
+            {% endif %}
+            {% if member.github %}
+              <a target="_blank" href="{{ member.github }}"><span class="icon-github"></span></a>
+            {% endif %}</p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">{{ member.display_name }}<i class="fa fa-times right"></i></span>
+            <p>{{ member.about_text }}</p>
+          </div>
+        </div>
+       <!--  <div class="card">
+          <div class="card-image">
+            <img src="{{ member.picture }}">
+          </div>
+          <div class="card-action">
+            <span class="card-title">{{ member.display_name }}</span>
+          </div>
+          <div class="card-content">
+            <p>{{ member.about_text }}</p>
+          </div>
+          <div class="card-action">
+            {% if member.twitter %}
+              <a target="_blank" href="{{ member.twitter_url }}"><span class="icon-twitter"></span></a>
+            {% endif %}
+            {% if member.github %}
+              <a target="_blank" href="{{ member.github }}"><span class="icon-github"></span></a>
+            {% endif %}
+          </div>
+        </div> -->
+      </div>
+    {% endfor %}
   </div>
 
 
