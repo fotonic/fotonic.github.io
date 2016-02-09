@@ -99,7 +99,7 @@ a {
     text-decoration: none !important; }
 
 section a {
-  color: #FF5252; }
+  color: #3989B1; }
 
 /**
 * Set `margin-bottom` to maintain vertical rhythm
@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
 * Links
 */
 a {
-  color: #FF5252;
+  color: #228ABD;
   text-decoration: none;
   background: transparent; }
   a:visited {

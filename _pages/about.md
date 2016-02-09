@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About
-permalink: /about/
+title: Meet the Team
+permalink: /meet-the-team/
 ---
 
 <!-- ### Who we are

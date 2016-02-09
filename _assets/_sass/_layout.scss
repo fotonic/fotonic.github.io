@@ -55,10 +55,6 @@ section {
 */
 header {
   color: $textPrimaryColor;
-  position: relative;
-  padding-top: 13%;
-  text-align: center;
-  padding-bottom: 18%;
   a {
     font-size: 26px;
     line-height: 56px;
@@ -74,13 +70,6 @@ header {
   h1 {
     font-size: 4rem;
     color: $headTextColor;
-    height: 1em;
-    left: 0;
-    line-height: 1;
-    margin: auto;
-    position: absolute;
-    text-align: left;
-    width: auto;
   }
   h1 span {
     font-size: 3rem;
@@ -89,13 +78,6 @@ header {
   }
   p {
     color: $textPrimaryColor;
-    height: 1em;
-    left: 0;
-    line-height: 1;
-    margin: auto;
-    position: absolute;
-    text-align: left;
-    width: auto;
     font-weight: 200;
     font-size: 1.6rem;
     opacity: .8;
@@ -619,9 +601,17 @@ footer {
 .home-back{
   background-image:url('/_assets/images/fontbackground.jpg');
   background-size: cover;
-  text-align: center;
-  h1{
+  position: relative;
+  padding-top: 23%;
+  padding-bottom: 23%;
+    h1{
     color:#146480;
     font-size: 2rem;
   }
+}
+.blue-background{
+  background-color: #34A5DD;
+  position: relative;
+  padding-top: 10%;
+  padding-bottom: 15%;
 }
