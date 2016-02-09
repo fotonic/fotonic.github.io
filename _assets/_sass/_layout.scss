@@ -99,6 +99,7 @@ header {
     font-weight: 200;
     font-size: 1.6rem;
     opacity: .8;
+    margin-top: 25px;
   }
 }
 header, footer, section {
@@ -115,7 +116,7 @@ header, footer, section {
     text-align: left;
     width: auto;
     font-weight: 400;
-    margin-top: 25px;
+    // margin-top: 25px;
   }
   padding-left: 6.5%;
   padding-right: 6.5%;
@@ -560,7 +561,7 @@ footer {
     font-size: 2.5rem;
   }
   header p {
-    margin-top: 5px;
+    margin-top: 30px;
     font-size: 1.2rem;
   }
   .post-list h2 a {
@@ -598,7 +599,7 @@ footer {
     line-height: 2.6rem;
   }
   header p {
-    margin-top: 5px;
+    margin-top: 30px;
     font-size: 1rem;
   }
   section span {
