@@ -1,6 +1,6 @@
 # Site settings
 title: Fotonic
-email: example@example.com
+email:
 description:
 footer_text: 'Made with <span class="icon-favorite pulse"></span> by people.'
 baseurl:
@@ -10,7 +10,7 @@ twitter_username: testaccount
 github_username:  fotonic
 dribbble_username:
 instagram_username:
-email: example@example.com
+email: 
 
 # data
 authors:
