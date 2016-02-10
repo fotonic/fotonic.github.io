@@ -99,7 +99,7 @@ a {
     text-decoration: none !important; }
 
 section a {
-  color: #FF5252; }
+  color: blue; }
 
 /**
 * Set `margin-bottom` to maintain vertical rhythm
@@ -146,13 +146,13 @@ h1, h2, h3, h4, h5, h6 {
 * Links
 */
 a {
-  color: #FF5252;
+  color: #ffffff;
   text-decoration: none;
   background: transparent; }
   a:visited {
-    color: #ff0606; }
+    color: blue; }
   a:hover {
-    color: #212121;
+    color: #ffffff;
     text-decoration: underline; }
 
 /**
