@@ -6,3 +6,5 @@ gem 'rouge'
 gem 'jekyll-watch'
 gem 'thor'
 gem 'stringex'
+
+gem 'rack-jekyll', '~> 0.4.5'
