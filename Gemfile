@@ -8,3 +8,4 @@ gem 'thor'
 gem 'stringex'
 
 gem 'rack-jekyll', '~> 0.4.5'
+gem 'jekyll-pagination', '~> 0.0.4'
