@@ -12,7 +12,7 @@ tags:
 
 In 2007, I supported an expansive suite of research products at a large company. For years I spent most of my work life gaining insights from customers, walking with them through their experiences while using our platform. As a result, user experience became glued to the forefront of my mind. At that time, I had no clue that I would eventually build products.
 
-I'm now a full-stack software engineer for a healthcare innovations company. I'm only into my 5th week in the role with a code base that is vastly different from my last job, but I'm already helping to develop a product geared toward making life easier for patients and care providers with with EmberJS & Ruby. When I'm not at the office, I build everything from front to back-end side projects with an occasional freelance thing.
+I'm now a full-stack software engineer for a healthcare innovations company. I'm only into my 5th week in the role with a code base that is vastly different from my last job, but I'm already helping to develop a product geared toward making life easier for patients and care providers in EmberJS & Ruby. When I'm not at the office, I build everything from front to back-end side projects with an occasional freelance thing.
 
 As web developers/engineers we can never reach our full potential without designers and they will never see their concepts materialize without engineering. We must do more than just co-exist. Our success depends on our willingness to collaborate and support each other.
 
